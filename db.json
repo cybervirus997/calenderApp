@@ -1,0 +1,25 @@
+{
+  "meetings": [
+    {
+      "time": "4:00",
+      "id": "8d3f6f8f-338c-4f12-b0bd-250f8df1123f",
+      "venue": "sdf",
+      "title": "sdfg",
+      "date": 1
+    },
+    {
+      "time": "6",
+      "date": 20,
+      "id": "c14d1e09-970f-498f-89a3-4d839fea9436",
+      "venue": "wdfg",
+      "title": "sdf"
+    },
+    {
+      "time": "12:30",
+      "date": 27,
+      "id": "a0d64052-cbf6-40e3-af05-17204dccb751",
+      "venue": "cuttack",
+      "title": "bhuji khae"
+    }
+  ]
+}
